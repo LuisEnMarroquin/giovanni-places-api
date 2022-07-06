@@ -15,3 +15,7 @@ npm run build  # production
 
 For feedback related to this sample, please open a new issue on
 [GitHub](https://github.com/googlemaps/js-samples/issues).
+
+## Code stolen from
+
+https://developers.google.com/maps/documentation/javascript/examples/directions-simple
